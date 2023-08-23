@@ -1,6 +1,6 @@
 # simple-crud-php
 
-<i><h1>Screenshoots</h1></i>
+<i><h1>Screenshots</h1></i>
 
 <h3>Products Data and Add Product</h3>
 
