@@ -40,7 +40,6 @@ if (isset($_GET['edit'])) {
 <body>
 
 	<h1>Data Produk</h1>
-	<h2>Tess</h2>
 
 	<?php if (isset($_SESSION['alert'])) : ?>
 		<h3>
